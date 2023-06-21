@@ -21,9 +21,9 @@
 
 ###
 
-<div align="center">
-  <img height="180" src="https://media.tenor.com/J9bpG1PrJpkAAAAM/computer-games.gif"  />
-</div>
+<br clear="both">
+
+<img align="right" height="180" src="https://media.tenor.com/J9bpG1PrJpkAAAAM/computer-games.gif"  />
 
 ###
 
